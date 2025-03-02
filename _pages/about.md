@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Welcome to Mr. Cat's homepage, let's do something cool😎 together!"
+title: "Welcome to Mr. Cat's homepage, let's do something cool together!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I’m a first-year Ph.D. student from the [School of Data Science at the Shenzhen Campus of The Chinese University of Hong Kong(CUHKSZ)](https://sds.cuhk.edu.cn/). My research interests include biostatistics, RNA methylation, machine learning and transformer.
+
+I am fortunate to be advised by [Prof. Guo](https://zhenxingguo.org/) from the School of Data Science.
+
+You can find my CV here:  [Yaohui's Curriculum Vitae](../assets/Curriculum Vitae of Yaohui Guo.pdf).
+
+[Email](yaohuiguohust@gmail.com) / [Github](https://github.com/0317miaomiao)
 
 A data-driven personal website
 ======
