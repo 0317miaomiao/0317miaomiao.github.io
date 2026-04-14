@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Quantifying Transcript Complexity via the Condition Number of Gene-Specific Random Matrix"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2026-03-01-transcript-complexity
+excerpt: "We propose a quantitative framework to characterize transcript complexity using the condition number of gene-specific random matrices, providing a principled measure for distinguishing simple and complex transcript structures."
+date: 2026-03-01
+venue: "Briefings in Bioinformatics"
+paperurl: "https://doi.org/10.1093/bib/bbag134"
+citation: "# Bo Zhang, # Yaohui Guo, Guoping Liu, Meng Zou. (2026). &quot;Quantifying Transcript Complexity via the Condition Number of Gene-Specific Random Matrix.&quot; <i>Briefings in Bioinformatics</i>, 27(2), bbag134. (# Co-first authors)"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces a novel mathematical framework for quantifying transcript complexity by leveraging the condition number of gene-specific random matrices. The proposed metric provides a robust and interpretable measure for assessing transcript structural variability, with applications in transcriptome analysis and long-read RNA sequencing studies.
