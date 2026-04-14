@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Ph.D. in Data Science and Statistics
+School of Data Science (SDS), The Chinese University of Hong Kong, Shenzhen
+2025 – Present
+B.S. in Mathematics and Statistics
+School of Mathematics and Statistics, Huazhong University of Science and Technology
+2021 – 2025
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Jul 2024 – Sep 2024: Data Analyst Intern (Autonomous Driving Division)
+Xiaomi Corporation
+Responsibilities:
+Large-scale autonomous driving data analysis
+Driving rule design and evaluation based on real-world trajectory data
+Scenario-based driving behavior optimization
+Jul 2022 – Aug 2022: Research Intern (Equity Research Division)
+Guotai Junan Securities
+Responsibilities:
+Financial research report analysis
+Stock screening and factor-based equity selection
+Quantitative evaluation of individual stocks
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+# Bo Zhang, # Yaohui Guo, Guoping Liu, Meng Zou
+Quantifying Transcript Complexity via the Condition Number of Gene-Specific Random Matrix
+Briefings in Bioinformatics, 27(2), March 2026, bbag134
+https://doi.org/10.1093/bib/bbag134
+
+(# Co-first authors)
+Guo, Y., Xu, L., Chen, X., Zhao, Z.
+A Two-Stage Feature Reduction (FIRRE) Framework for Improving Artificial Neural Network Predictions in Civil Engineering Applications
+Infrastructures, 11(1), 29, 2026
+https://doi.org/10.3390/infrastructures11010029
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul> <li> <strong>Spring 2026:</strong> <strong>Leading Teaching Assistant</strong><br> <strong>The Chinese University of Hong Kong, Shenzhen</strong><br> <strong>STAT 2002H – Probability Theory and Stochastic Processes (Honors)</strong> </li> </ul>
+
